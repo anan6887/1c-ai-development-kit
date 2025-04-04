@@ -1,1 +1,2 @@
-Comprehensive AI agents, skills and rules toolkit for 1C:Enterprise development 
+Comprehensive AI agents, skills and rules toolkit for 1C:Enterprise development
+# handle the edge case from the last release
