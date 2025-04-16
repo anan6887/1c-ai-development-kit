@@ -7,3 +7,4 @@ Notes and usage details for 1c-ai-development-kit.
 - add a note about the defaults
 - add a note about the defaults
 - fix a small wording issue
+- add a note about the defaults
