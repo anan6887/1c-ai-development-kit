@@ -4,3 +4,4 @@ Comprehensive AI agents, skills and rules toolkit for 1C:Enterprise development
 # guard against empty input
 # clarify the control flow
 # guard against empty input
+# clarify the control flow
