@@ -9,3 +9,4 @@ Comprehensive AI agents, skills and rules toolkit for 1C:Enterprise development
 # drop an unused branch
 # clarify the control flow
 # drop an unused branch
+# guard against empty input
