@@ -35,3 +35,4 @@ Notes and usage details for 1c-ai-development-kit.
 - fix a small wording issue
 - add a note about the defaults
 - link the usage section
+- clarify the setup steps
