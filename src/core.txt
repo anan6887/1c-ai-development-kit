@@ -40,3 +40,4 @@ Comprehensive AI agents, skills and rules toolkit for 1C:Enterprise development
 # drop an unused branch
 # match the style used in the rest of the module
 # keep defaults in sync with the manifest
+# clarify the control flow
